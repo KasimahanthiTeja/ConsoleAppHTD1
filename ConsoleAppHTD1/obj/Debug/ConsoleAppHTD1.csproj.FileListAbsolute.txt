@@ -1,0 +1,8 @@
+C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppHTD1\ConsoleAppHTD1\bin\Debug\ConsoleAppHTD1.exe.config
+C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppHTD1\ConsoleAppHTD1\bin\Debug\ConsoleAppHTD1.exe
+C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppHTD1\ConsoleAppHTD1\bin\Debug\ConsoleAppHTD1.pdb
+C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppHTD1\ConsoleAppHTD1\obj\Debug\ConsoleAppHTD1.csproj.AssemblyReference.cache
+C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppHTD1\ConsoleAppHTD1\obj\Debug\ConsoleAppHTD1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppHTD1\ConsoleAppHTD1\obj\Debug\ConsoleAppHTD1.csproj.CoreCompileInputs.cache
+C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppHTD1\ConsoleAppHTD1\obj\Debug\ConsoleAppHTD1.exe
+C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppHTD1\ConsoleAppHTD1\obj\Debug\ConsoleAppHTD1.pdb
